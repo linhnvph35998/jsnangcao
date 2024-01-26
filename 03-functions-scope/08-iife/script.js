@@ -1,5 +1,5 @@
 (function () {
-  const user = 'John';
+  const user = 'linh';
   console.log(user);
   const hello = () => console.log('Hello from the IIFE');
   hello();

@@ -26,14 +26,14 @@ function loginUser(user) {
 
 const user = {
   id: 1,
-  name: 'John',
+  name: 'linh',
 };
 
 console.log(loginUser(user));
 console.log(
   loginUser({
     id: 2,
-    name: 'Sara',
+    name: 'hieu',
   })
 );
 
